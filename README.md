@@ -1,25 +1,15 @@
 <div align="center">
 
-```
- ███████  █████  ███████ ██ ██████  ██████  ███████ ██    ██ ███████ ██       ██████  ██████  ███████ ██████ 
- ██      ██   ██    ███  ██ ██   ██ ██   ██ ██      ██    ██ ██      ██      ██    ██ ██   ██ ██      ██   ██
-███████ ███████   ███   ██ ██   ██ ██   ██ █████   ██    ██ █████   ██      ██    ██ ██████  █████   ██████
-      ██ ██   ██  ███    ██ ██   ██ ██   ██ ██       ██  ██  ██      ██      ██    ██ ██      ██      ██   ██
- ███████ ██   ██ ███████ ██ ██████  ██████  ███████   ████   ███████ ███████  ██████  ██      ███████ ██   ██
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=210&section=header&text=Md.%20Solaiman%20Ali&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=AI-Powered%20Full-Stack%20Software%20Developer&descSize=17&descAlignY=58" />
 
-### AI-Powered Full-Stack Software Engineer
+<br/>
 
-Building scalable web applications and intelligent software with TypeScript, React, Next.js, Node.js, PostgreSQL, AI Agents, RAG, Cloud & DevOps.
-
-<a href="https://saziddeveloper.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=google-chrome&logoColor=black" style="height:32px"/>
-</a>
-<a href="https://github.com/saziddeveloper">
-  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37" style="height:32px"/>
+<a href="https://github.com/solaimanalideveloper">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Node.js+%E2%80%A2+BetterAuth+%E2%80%A2+MongoDB+%E2%80%A2+Mongoose;Building+fast%2C+scalable+web+apps" alt="Typing SVG" />
 </a>
 
-</div>
+
+<br/><br/>
 
 ---
 
