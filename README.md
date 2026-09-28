@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=210&section=header&text=Md.%20Solaiman%20Ali&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=AI-Powered%20Full-Stack%20Software%20Developer&descSize=17&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=210&section=header&text=Md.%20Solaiman%20Ali&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=AI-Powered%20Full-Stack%20Web%20Developer&descSize=17&descAlignY=58" />
 
 <br/>
 
@@ -13,45 +13,23 @@
 
 ---
 
-## `01 // Pofile Info`
-
-<table>
-<tr>
-<td width="42%" align="center">
-
-<img src="./hxni-ascii.svg" width="370" />
-
-</td>
-
-<td width="58%" align="center">
-
-<img src="./info-card.svg" width="490" />
-
-</td>
-</tr>
-</table>
-
----
-
-## `02 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" width="860" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="solaimanalideveloper's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ---
 
 ## `03 // ABOUT ME`
 
-I'm **Ashaduzzaman Sazid**, a Full-Stack Developer focused on building practical, responsive, and production-oriented web applications.
+I'm **Solaiman Ali**, a Full-Stack Developer focused on building practical, responsive, and production-oriented web applications.
 
-I work across the full development cycle — from crafting modern interfaces with React, Next.js, TypeScript, and Tailwind CSS to building backend systems and APIs with Node.js, Express.js, and database technologies such as MongoDB and PostgreSQL.
+I work across the full development cycle — from crafting modern interfaces with React, Next.js, TypeScript, and Tailwind CSS to building backend systems and APIs with Node.js, Express.js, and database technologies such as MongoDB.
 
-I'm continuously expanding into AI Engineering, exploring LLMs, RAG, AI Agents, embeddings, and intelligent application workflows while strengthening my foundations in software architecture, testing, cloud, and DevOps.
+I'm continuously expanding into AI Engineering, exploring LLMs, RAG, AI Agents, embeddings, and intelligent application workflows while strengthening my foundations in webapp architecture, testing.
 
-My goal is to build software that isn't just functional, but scalable, maintainable, intelligent, and genuinely useful — growing toward becoming an AI-Powered Full-Stack Software Engineer.
+My goal is to build software that isn't just functional, but scalable, maintainable, intelligent, and genuinely useful — growing toward becoming an AI-Powered Full-Stack Web Developer.
 
 ---
 
@@ -69,66 +47,18 @@ My goal is to build software that isn't just functional, but scalable, maintaina
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,npm,linux" />
 </p>
-
----
-
-## `04 // Featured PROJECTS`
-
-<div align="center">
-<br/>
-
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/-A-Restaurant-App-Spice-with-Hassan" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/spice_hassan_mockup.png" width="100%" />
-      </a>
-      <br/>
-      <b>Spice with Hassan</b><br/>
-      <sub>Boutique Restaurant and Ordering Management</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Food-Delivery-app-2" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Food-Delivery-app-2/main/hero.png" width="100%" />
-      </a>
-      <br/>
-      <b>Nixh Food 2.0</b><br/>
-      <sub>Scalable Order Tracking and Delivery Ecosystem</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Expense-Tracker" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_finance_mockup.png" width="100%" />
-      </a>
-      <br/>
-      <b>Hxni Finance</b><br/>
-      <sub>Advanced Personal Asset and Expense Management</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Hxnix-Social-Media-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxnix_social_mockup.png" width="100%" />
-      </a>
-      <br/>
-      <b>Hxnix Social</b><br/>
-      <sub>Modern Interactive Community Engine</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -137,11 +67,11 @@ My goal is to build software that isn't just functional, but scalable, maintaina
 | Area        | Focus                                               |
 | ----------- | --------------------------------------------------- |
 | `BUILDING`  | Full-stack web applications & SaaS products         |
-| `LEARNING`  | TypeScript • Next.js • PostgreSQL • System Design   |
-| `EXPLORING` | AI Engineering • LLMs • RAG • AI Agents             |
-| `DEPLOYING` | Vercel • Docker • GitHub Actions • Cloud            |
-| `IMPROVING` | Software Architecture • Testing • Security          |
-| `GOAL`      | Becoming an AI-Powered Full-Stack Software Engineer |
+| `LEARNING`  | TypeScript • Next.js  • System Design               |
+| `EXPLORING` | AI Engineering • LLMs • AI Agents                   |
+| `DEPLOYING` | Vercel • GitHub Actions                             |
+| `IMPROVING` | Web Application Architecture • Testing • Security   |
+| `GOAL`      | Becoming an AI-Powered Full-Stack Web Engineer |
 
 ---
 
