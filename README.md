@@ -153,7 +153,7 @@ My goal is to build software that isn't just functional, but scalable, maintaina
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=52&lines=Thanks+for+stopping+by%21;Let%27s+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
 
 </td>
-</tr>
+</tr> 
 </table>
 
 <br/>
