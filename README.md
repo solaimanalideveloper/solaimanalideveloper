@@ -160,7 +160,7 @@ My goal is to build software that isn't just functional, but scalable, maintaina
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Md+Solaiman+Ali%22&fontSize=30&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:111827,80:111827,100:0B1220&height=160&section=footer&text=%22Md+Solaiman+Ali%22&fontSize=30&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
 
 
 </div>
